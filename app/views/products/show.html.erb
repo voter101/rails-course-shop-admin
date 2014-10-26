@@ -5,20 +5,5 @@
   <%= @product.name %>
 </p>
 
-<p>
-  <strong>String:</strong>
-  <%= @product.string %>
-</p>
-
-<p>
-  <strong>Category:</strong>
-  <%= @product.category %>
-</p>
-
-<p>
-  <strong>Refferences:</strong>
-  <%= @product.refferences %>
-</p>
-
 <%= link_to 'Edit', edit_product_path(@product) %> |
 <%= link_to 'Back', products_path %>

@@ -2,12 +2,6 @@
 
 one:
   name: MyString
-  string: MyString
-  category: MyString
-  refferences: MyString
 
 two:
   name: MyString
-  string: MyString
-  category: MyString
-  refferences: MyString
